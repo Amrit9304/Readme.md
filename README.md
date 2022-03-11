@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://telegra.ph/file/ae6ce51d04bca1e2a321e.jpg"><img src="https://telegra.ph/file/ae6ce51d04bca1e2a321e.jpg" alt="whatsapp-botto-rin-init" border="0"></a>
+<a href="https://telegra.ph/file/485d99165388e3e42be7c.jpg"><img src="https://telegra.ph/file/485d99165388e3e42be7c.jpg" alt="mizuhara" border="0"></a>
 
 # **MIZUHARA : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
 
