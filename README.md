@@ -40,9 +40,9 @@
 ## Information
 > A simple and easy-to-use WhatsApp bot project with anime features based on Multi-Device Baileys and written in JavaScript
 
-## 🎗Help
+## HELP
 Please give this repo a ⭐ if it helped you.
-## 🎆 BEYOND
+## MIZUHARA
 This is a lovely project by the BEYONG TEAM🎆. After forking don't do any change. If you do we will sue you for sure. If you wanna do any changes click the following Whatsapp icons and join our groups and contact an OWNER 
  
 HOW TO REACH THE OWNER? 👇👇👇
