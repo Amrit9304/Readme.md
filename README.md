@@ -46,6 +46,11 @@
 ## HELP
 > Please give this repo a ⭐ if it helped you.
 
+## 💪 Contribution
+
+> Feel free to open issues regarding any problems or if you have any feature
+    requests
+
 HOW TO REACH THE OWNER? 👇👇👇
    <a href="https://wa.me/918231033230?text=Hi%20I%20Am%20From%20GitHub%20☺️">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
